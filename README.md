@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Quiz and Exam Platform – Member 1 (Student & Quiz Management)
 
 This package contains the Student Module:
@@ -59,3 +60,7 @@ Frontend: http://localhost:5173
 - This Member 1 module saves submitted answers and attempts. Automatic evaluation and result generation should be completed by Member 2 or jointly integrated.
 - The API currently uses a simple bearer-token demo authentication implementation. Replace it with a production JWT/session solution and add role-based authorization before deployment.
 - This is a development starter, not a production-hardened examination system. Add server-side exam-window enforcement, attempt limits, audit logs, rate limiting, HTTPS, and stronger token management before real use.
+=======
+# online-quiz-exam-platform
+Online Quiz and Exam Platform using React.js, Java Spring Boot and MySQL.
+>>>>>>> origin/main
